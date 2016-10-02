@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="TextButCall">Сделать звонок</string>
+    <string name="NameFile">numbLog.txt</string>
+    <string name="NameDir">MyPhoneBook</string>
+    <string name="LogTag">PhoneBook</string>
+    <string name="type">type</string>
+    <string name="number">number</string>
+    <string name="time">time</string>
+</resources>

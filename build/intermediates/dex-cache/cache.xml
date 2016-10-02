@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a9a0b5d4281eae823b323cfd22c3d683e798ae70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_522fe0100537945eda9c428f51175bc41ecdaa1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_4d182f6d0396eda522bd1ecd74b8b663ab728e1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2a62b6fc9d599e591977bc324f3a4360e28c10f3">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d25452cbd09a091a0db562b49660e4acae54d48f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_69e293a9c2df139cb221f9775e8b30ecc2fdf562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_bc2991646ebfc7c6e573278d3c20f969ec72687f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_8ee417ed5b0fde4a1c7e912cb7cef9cfa658cef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0dfa4c392868b724b9812dc11c6731dbff168c8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d6e9b1b5153e3342245c262117b9aca720dcb06a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_baf7a201714983674aba567a2a78883cefc459e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cacd7f35ccdc0eb8e8d551322408b838da448689/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_9b883d64ec8708496ac7b20fbd70c89727b7f69d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e48846d4240128e8132543adf6b4344a3c868f55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bc140fdf07c14ed4f39583ff4de106e9d2ed509a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_b7335d2082baba77ebbcb52b8e05c65df83d0371/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f728199a41ee00c010869e0c3e4f83bf92077715/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="74b7a149572f57b1fcc77b8c18add5d6658c503f">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_925607d788a19b537dfdf6bc57a48564e198b018/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_d216efea1b2b6f9027de933fd744004a75e39433/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_cc74a2909a690fc3f7d088e5fd0730a1ae32d5af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/alex/TRASHBUCKET/PhoneBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_b37555cc1316649fbe3a1897c78bf862200ab355/classes.dex" />
+    </item>
+
+</items>
